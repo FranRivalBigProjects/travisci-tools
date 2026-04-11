@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let j=jobs.value.split('\n').length;res.innerText=`Jobs: ${j}`;}

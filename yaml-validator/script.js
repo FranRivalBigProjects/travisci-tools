@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=yaml.value.includes('script')?'Valid YAML':'Invalid YAML';}

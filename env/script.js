@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let v=var.value,val=value.value;if(!v||!val){res.innerText='Enter values';return;}res.innerText=`${v}=${val}`;}

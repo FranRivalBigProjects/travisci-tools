@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let j=+jobs.value,t=+time.value;if(!j||!t){res.innerText='Enter values';return;}res.innerText=`Timeline: ${(j*t).toFixed(2)}s`; }
